@@ -1,5 +1,7 @@
 h1. jQuery copyfriendly
 
+This is a fork of the original source from Kenneth Kalmer to simply ease integration with npm by adding a corresponding package.json.
+
 A simple jQuery plugin that extracts the text from an HTML element and places it into an "invisible" text field. This makes selecting and copying the text much easier since no surrounding whitespace is copied by the browser.
 
 The plugin works unobtrusively, so nothing happens in the absense of Javascript.
