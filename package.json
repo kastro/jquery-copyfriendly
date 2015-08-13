@@ -1,0 +1,22 @@
+{
+  "name": "jquery-copyfriendly",
+  "version": "0.1.0",
+  "description": "Unobtrusive jQuery plugin to place the text of any element in an invisible text field, making sure no unnecessary whitespace is copied with to the clipboard",
+  "main": "jquery.copyfriendly.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kastro/jquery-copyfriendly.git"
+  },
+  "keywords": [
+    "jquery",
+    "copyfriendly",
+    "whitespace",
+    "clipboard"
+  ],
+  "author": "Kenneth Kalmer <kenneth.kalmer@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.textile",
+  "dependencies": {
+    "jquery": "^2.1.1"
+  }
+}
